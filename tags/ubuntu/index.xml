@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Dingzhen</title>
+    <link>https://dzluck.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Dingzhen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Nov 2020 20:06:00 +0800</lastBuildDate><atom:link href="https://dzluck.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 18.04设置systemctl开机启动脚本rc</title>
+      <link>https://dzluck.github.io/post/chinese-preview/</link>
+      <pubDate>Sun, 22 Nov 2020 20:06:00 +0800</pubDate>
+      
+      <guid>https://dzluck.github.io/post/chinese-preview/</guid>
+      <description>使用update-rc.d以及rc.local等方法就是不生效。后来在ubuntu的官方论坛ubuntu-16.10开始不再使用initd管理系统改用systemd ubuntu-18.04 LTS版本用的是systemctl</description>
+    </item>
+    
+  </channel>
+</rss>

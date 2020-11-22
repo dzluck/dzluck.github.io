@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Dingzhen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2020 19:46:48 +0800</lastBuildDate><atom:link href="https://dzluck.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 20:06:00 +0800</lastBuildDate><atom:link href="https://dzluck.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 18.04设置systemctl开机启动脚本rc</title>
+      <link>https://dzluck.github.io/post/chinese-preview/</link>
+      <pubDate>Sun, 22 Nov 2020 20:06:00 +0800</pubDate>
+      
+      <guid>https://dzluck.github.io/post/chinese-preview/</guid>
+      <description>使用update-rc.d以及rc.local等方法就是不生效。后来在ubuntu的官方论坛ubuntu-16.10开始不再使用initd管理系统改用systemd ubuntu-18.04 LTS版本用的是systemctl</description>
+    </item>
+    
     <item>
       <title>Hugo&#43;github搭建个人博客</title>
       <link>https://dzluck.github.io/post/hugo&#43;github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>

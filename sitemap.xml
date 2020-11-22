@@ -4,16 +4,31 @@
   
   <url>
     <loc>https://dzluck.github.io/</loc>
-    <lastmod>2020-11-22T19:46:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dzluck.github.io/post/hugo&#43;github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-11-22T19:46:48+08:00</lastmod>
+    <lastmod>2020-11-22T20:06:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://dzluck.github.io/post/</loc>
+    <lastmod>2020-11-22T20:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dzluck.github.io/tags/</loc>
+    <lastmod>2020-11-22T20:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dzluck.github.io/tags/ubuntu/</loc>
+    <lastmod>2020-11-22T20:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dzluck.github.io/post/chinese-preview/</loc>
+    <lastmod>2020-11-22T20:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dzluck.github.io/post/hugo&#43;github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-11-22T19:46:48+08:00</lastmod>
   </url>
   
@@ -29,10 +44,6 @@
   
   <url>
     <loc>https://dzluck.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dzluck.github.io/tags/</loc>
   </url>
   
 </urlset>
