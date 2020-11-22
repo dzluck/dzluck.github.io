@@ -121,9 +121,9 @@ sudo service mysql start
 <div class="highlight"><pre class="chroma"><code class="language-Bash" data-lang="Bash">ls /lib/systemd/system
 </code></pre></div><p>你可以看到有很多启动脚本，其中就有我们需要的
 rc.local.service</p>
-<p>打开脚本内容：
-cat /lib/systemd/system/rc.local.service
-可以看出/lib/systemd/system/rc.local.service的启动顺序是没有Install段</p>
+<p>打开脚本内容：</p>
+<div class="highlight"><pre class="chroma"><code class="language-Bash" data-lang="Bash">cat /lib/systemd/system/rc.local.service
+</code></pre></div><p>可以看出/lib/systemd/system/rc.local.service的启动顺序是没有Install段</p>
 <p>1
 2
 3
