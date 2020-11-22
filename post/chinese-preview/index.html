@@ -118,7 +118,7 @@ sudo service mysql start
 </code></pre>
 <p>其实这个改动到不是算大，主要是开机启动比以前复杂多了。systemd 默认读取 /etc/systemd/system 下的配置文件，该目录下的文件会链接/lib/systemd/system/下的文件。</p>
 <p>执行</p>
-<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">ls /lib/systemd/system
+<div class="highlight"><pre class="chroma"><code class="language-Bash" data-lang="Bash">ls /lib/systemd/system
 </code></pre></div><p>你可以看到有很多启动脚本，其中就有我们需要的
 rc.local.service</p>
 <p>打开脚本内容：
