@@ -114,9 +114,11 @@ systemd is now used for user sessions. System sessions had already been provided
 比如以前启动 mysql 服务用:
 sudo service mysql start
 现在用：
-sudo systemctl start mysqld.service
+<code>sudo systemctl start mysqld.service</code>
 其实这个改动到不是算大，主要是开机启动比以前复杂多了。systemd 默认读取 /etc/systemd/system 下的配置文件，该目录下的文件会链接/lib/systemd/system/下的文件。</p>
-<p>执行 ls /lib/systemd/system 你可以看到有很多启动脚本，其中就有我们需要的
+<p>执行
+<code>ls /lib/systemd/system</code>
+你可以看到有很多启动脚本，其中就有我们需要的
 rc.local.service</p>
 <p>打开脚本内容：
 cat /lib/systemd/system/rc.local.service
